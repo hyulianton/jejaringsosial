@@ -1,5 +1,5 @@
 # Materi Kuliah Jejaring Sosial
-## Pendahuluan
+## [Pendahuluan](Pendahuluan.md)
 ## Elemen Jaringan
 ## Dunia Kecil
 ## Hubs
