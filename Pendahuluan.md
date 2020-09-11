@@ -35,4 +35,4 @@ Dalam sel-sel di tubuh kita, molekul khusus yang disebut protein berinteraksi da
 Jaringan/jejaring adalah cara umum untuk memodelkan dan mempelajari sistem yang kompleks dengan banyak elemen yang berinteraksi. Node menggambarkan banyak macam objek, dari orang ke laman web, dari protein ke spesies, dari internet router ke bandara. Node dapat mempunyai fitur: lokasi geografis, kekayaan, aktivitas, jumlah koneksi, dll. Link menggambarkan banyak macam hubungan, dari fisik ke maya, dari kimia ke sosial, dari komunikatif ke informatif. Link dapat mempunyai arah atau bersifat timbal balik. Link dapat mempunyai fitur: kesamaan, jarak, lalu lintas, isi, bobot, dll.
 
 Video: https://youtu.be/5UZEVCOVJNU
-Berikutnya: []
+Berikutnya: [Elemen Jaringan](ElemenJaringan.md)
