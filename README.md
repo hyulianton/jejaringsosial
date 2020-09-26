@@ -8,4 +8,4 @@
 7. Komunitas
 8. Dinamika
 
-kumpulan link
+[Kumpulan url](url.md)
