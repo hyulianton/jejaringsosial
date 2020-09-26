@@ -7,3 +7,5 @@
 6. Model Jaringan
 7. Komunitas
 8. Dinamika
+
+kumpulan link
