@@ -74,5 +74,3 @@ Belum ada rilis atau paket yang dipublikasikan. Jika Anda berencana menggunakan 
 - **Pengelola repositori:** hyulianton.
 - **Institusi:** Program Studi Teknik Informatika, Universitas Stikubank (UNISBANK) Semarang.
 - **Bahasa:** Jupyter Notebook sebagai bahasa utama konten teknis dalam repositori.
-
-Jika ada konteks tambahan yang ingin Anda tonjolkan (misalnya silabus per minggu, rubrik penilaian, atau tugas proyek), beri tahu saya, dan saya akan menyesuaikan README ini agar lebih pas dengan kebutuhan kelas Anda.
